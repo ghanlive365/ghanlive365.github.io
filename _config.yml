@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ghanlive365.github.io
+title: Guohong's Blog
+email: hanguohong111@yahoo.com
+author: ghanlive365
+description: Guohong's Blog
+paginate: 3
+google_analytics: 
